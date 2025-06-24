@@ -1,0 +1,40 @@
+Input Directory: data
+Output Directory: processed
+Image: data/21_100.jpg | Avg R: 145.792 G: 90.4686 B: 87.2414
+Progress: 5.26316% (1/19)
+Image: data/r0_63-2.jpg | Avg R: 103.904 G: 120.832 B: 146.744
+Progress: 10.5263% (2/19)
+Image: data/r1_107.jpg | Avg R: 145.827 G: 92.2887 B: 87.2469
+Progress: 15.7895% (3/19)
+Image: data/r0_22_100.jpg | Avg R: 131.324 G: 125.137 B: 89.4222
+Progress: 21.0526% (4/19)
+Image: data/croco.jpg | Avg R: 90.531 G: 98.3765 B: 58.5573
+Progress: 26.3158% (5/19)
+Image: data/scientists.jpg | Avg R: 134.743 G: 133.444 B: 127.249
+Progress: 31.5789% (6/19)
+Image: data/r0_31.jpg | Avg R: 122.323 G: 126.085 B: 110.886
+Progress: 36.8421% (7/19)
+Image: data/r0_59.jpg | Avg R: 191.841 G: 154.273 B: 135.625
+Progress: 42.1053% (8/19)
+Image: data/r0_29_100.jpg | Avg R: 161.863 G: 138.411 B: 94.26
+Progress: 47.3684% (9/19)
+Image: data/r0_0_100.jpg | Avg R: 132.929 G: 128.898 B: 90.2391
+Progress: 52.6316% (10/19)
+Image: data/r0_103.jpg | Avg R: 157.029 G: 138.03 B: 108.333
+Progress: 57.8947% (11/19)
+Image: data/r1_55.jpg | Avg R: 139.358 G: 107.87 B: 96.566
+Progress: 63.1579% (12/19)
+Image: data/r0_21_100.jpg | Avg R: 161.913 G: 137.631 B: 93.8711
+Progress: 68.4211% (13/19)
+Image: data/r0_107.jpg | Avg R: 139.15 G: 81.9977 B: 71.2707
+Progress: 73.6842% (14/19)
+Image: data/r0_87.jpg | Avg R: 129.815 G: 79.4467 B: 69.5057
+Progress: 78.9474% (15/19)
+Image: data/r0_63.jpg | Avg R: 143.336 G: 146.978 B: 134.952
+Progress: 84.2105% (16/19)
+Image: data/r0_91_100.jpg | Avg R: 166.633 G: 171.196 B: 159.984
+Progress: 89.4737% (17/19)
+Image: data/r0_83.jpg | Avg R: 194.539 G: 164.336 B: 141.674
+Progress: 94.7368% (18/19)
+Image: data/Solid_blue.png | Avg R: 0 G: 0 B: 255
+Progress: 100% (19/19)
